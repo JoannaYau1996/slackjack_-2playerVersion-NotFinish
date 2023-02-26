@@ -1,0 +1,28 @@
+html{
+  user-select: none;
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+.playground{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.cards{
+  font-size: 8rem;
+}
+
+.poker{
+  margin:50px 50px
+}
+
+label{
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 20px;
+}
